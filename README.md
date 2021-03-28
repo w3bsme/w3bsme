@@ -11,7 +11,6 @@
 [1]: https://atom.io
 
 ## Tech Stack :computer:
-
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -23,6 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babeljs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="d3js" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="d3js" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
