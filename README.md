@@ -14,6 +14,7 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://vlang.io/img/v-logo.png" alt="V" width="40" height="40"/>
     <img src="https://camo.githubusercontent.com/3bd307204ac6237963e0448c00800a9df08f245d9e78fbbeb4191e625c834286/68747470733a2f2f64316c66797a356b7774387675392e636c6f756466726f6e742e6e65742f6e61746976657363726970742d6c6f676f2d323032312e706e67" alt="nativescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
