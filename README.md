@@ -6,7 +6,7 @@
 
 :new_moon_with_face: Fun fact: I am more productive at night than during the day
 
-:briefcase: I use [Atom][1] :atom:
+:briefcase: I use [WebStorm & VSCode][1] :atom:
 
 [1]: https://atom.io
 
